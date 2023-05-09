@@ -85,3 +85,7 @@ All three of the following values are calculated correctly and displayed in the 
 
 ## Submission
 * provide the URL of your GitHub repository for grading.
+
+## Note: 
+* I used  https://officetuts.net/excel/vba/find-the-maximum-and-minimum-value-in-the-range-in-vba/ in Script1 and Script2 to get the code to find the maximum and minimum percent change.
+* I used https://excelchamps.com/vba/autofit/ to get the code to Autofit summary table and data.
